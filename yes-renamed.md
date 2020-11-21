@@ -2,3 +2,10 @@
 
 This is a yes page.
 
+```bash
+(set (reg:SI 140)
+     (plus:SI (reg:SI 138)
+              (reg:SI 139)))
+
+```
+
