@@ -1,6 +1,6 @@
 # New page
 
-{% api-method method="get" host="" path="" %}
+{% api-method host="" path="" %}
 {% api-method-summary %}
 
 {% endapi-method-summary %}
