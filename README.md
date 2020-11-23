@@ -4,7 +4,7 @@
 
 |  |  |
 | :--- | :--- |
-|  |  |
+| ![](https://user-images.githubusercontent.com/28818/100020252-316fb880-2de8-11eb-8977-3b27cd4a68a0.png) |  |
 
 {% file src=".gitbook/assets/english.pdf" caption="Test" %}
 
