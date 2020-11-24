@@ -5,3 +5,7 @@
 * [Yes](yes-renamed.md)
 * [Petros Blog](https://petros.blog)
 
+## Folder
+
+* [Test](folder/test.md)
+
