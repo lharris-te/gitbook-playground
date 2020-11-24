@@ -1,5 +1,9 @@
 # Yes
 
+{% page-ref page="folder/test.md" %}
+
+
+
 This is a yes page.
 
 ```bash
