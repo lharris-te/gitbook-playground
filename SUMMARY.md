@@ -3,4 +3,5 @@
 * [Initial page](README.md)
 * [New page](new-page.md)
 * [Yes](yes-renamed.md)
+* [Petros Blog](https://petros.blog)
 
