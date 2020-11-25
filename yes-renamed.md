@@ -2,6 +2,10 @@
 
 
 
+{% page-ref page="yes-renamed.md" %}
+
+
+
 {% page-ref page="folder/test.md" %}
 
 
