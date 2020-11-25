@@ -9,3 +9,7 @@
 
 * [Test](folder/test.md)
 
+## Examples
+
+* [Google Sheet](examples/google-sheet.md)
+
