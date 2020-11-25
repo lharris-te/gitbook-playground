@@ -4,6 +4,7 @@
 * [New page](new-page.md)
 * [Yes](yes-renamed.md)
 * [Petros Blog](https://petros.blog)
+* [API Method](api-method.md)
 
 ## Folder
 
