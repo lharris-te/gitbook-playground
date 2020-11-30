@@ -5,6 +5,7 @@
 * [Yes](yes-renamed.md)
 * [Petros Blog](https://petros.blog)
 * [API Method](api-method.md)
+* [Inline images](inline-images.md)
 
 ## Folder
 
