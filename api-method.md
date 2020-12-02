@@ -2,6 +2,8 @@
 
 Text to copy and paste
 
+What?
+
 {% api-method method="get" host="" path="" %}
 {% api-method-summary %}
 
