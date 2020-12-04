@@ -1,7 +1,7 @@
 # New page
 
 {% hint style="info" %}
-Supported versions v0.8, v1.0
+Supported versions v0.9, [v1.0](https://app.gitbook.com/@pamiridis/s/playground/v/v1.0/new-page)
 {% endhint %}
 
 Something that only works in version 1.0
