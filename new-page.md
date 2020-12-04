@@ -1,8 +1,10 @@
 # New page
 
+Something that only works in version 1.0
+
 {% api-method host="" path="" %}
 {% api-method-summary %}
-Another draft Yes!
+
 {% endapi-method-summary %}
 
 {% api-method-description %}
