@@ -1,5 +1,7 @@
 # Initial page
 
+This is a change in draft B
+
 Test an item list with mixed bullets and numbers:
 
 1. This is a numbered list
