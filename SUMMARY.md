@@ -10,6 +10,7 @@
 ## Folder
 
 * [Test](folder/test.md)
+* [Test internal links](folder/test-internal-links.md)
 
 ## Examples
 
