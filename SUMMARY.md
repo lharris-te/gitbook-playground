@@ -6,6 +6,7 @@
 * [Petros Blog](https://petros.blog)
 * [API Method](api-method.md)
 * [Inline images](inline-images.md)
+* [Photos](photos.md)
 
 ## Folder
 
