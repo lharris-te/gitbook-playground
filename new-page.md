@@ -1,5 +1,13 @@
 # New page
 
+\[![](.gitbook/assets/screenshot-2020-12-07-at-16.20.55.png)\]\(something\) Sporades kai alla kala.
+
+
+
+
+
+![](.gitbook/assets/screenshot-2020-12-07-at-16.20.55.png)
+
 This is a [link](new-page.md#something) referencing the same page.
 
 {% api-method host="" path="" %}
