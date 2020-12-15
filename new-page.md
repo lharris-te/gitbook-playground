@@ -1,5 +1,7 @@
 # New page
 
+This is a [link](new-page.md#something) referencing the same page.
+
 {% api-method host="" path="" %}
 {% api-method-summary %}
 Another draft Yes!
@@ -31,4 +33,8 @@ Another draft Yes!
 {% endapi-method-response %}
 {% endapi-method-spec %}
 {% endapi-method %}
+
+### Something
+
+Test
 
