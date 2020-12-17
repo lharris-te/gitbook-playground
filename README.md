@@ -1,5 +1,9 @@
 # Initial page
 
+Edit 1
+
+Edit 2
+
 Test an item list with mixed bullets and numbers:
 
 1. This is a numbered list
