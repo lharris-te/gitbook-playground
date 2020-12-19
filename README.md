@@ -1,5 +1,8 @@
 # Initial page
 
+1. Step one ![](.gitbook/assets/screenshot-2020-12-07-at-16.20.55.png) 
+2. Step two ![](.gitbook/assets/screenshot-2020-12-07-at-16.20.55.png) 
+3. 
 Edit 1
 
 Edit 2
