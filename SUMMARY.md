@@ -24,4 +24,5 @@
 * [Untitled](import-.docx.md)
 * [External link](external-link.md)
 * [Petros Blog](https://petros.blog)
+* [Loom embed](loom-embed.md)
 
