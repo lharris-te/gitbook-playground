@@ -25,4 +25,5 @@
 * [External link](external-link.md)
 * [Petros Blog](https://petros.blog)
 * [Loom embed](loom-embed.md)
+* [Code blocks](code-blocks.md)
 
