@@ -8,7 +8,7 @@
 * [Target a heading in the same page](target-a-heading-in-the-same-page.md)
 * [Photos](photos.md)
 
-## Folder
+## A Folder <a id="folder"></a>
 
 * [Test](folder/test.md)
 * [Test internal links](folder/test-internal-links.md)
