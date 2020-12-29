@@ -26,4 +26,5 @@
 * [Petros Blog](https://petros.blog)
 * [Loom embed](loom-embed.md)
 * [Code blocks](code-blocks.md)
+* [Fixed font](fixed-font.md)
 
