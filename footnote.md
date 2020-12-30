@@ -28,5 +28,3 @@ Associate Justice Stephen Breyer of the Supreme Court of the United States is fa
 
 HTML, the predominant markup language for web pages, has no mechanism for marking up notes. Despite a number of different proposals over the years, and repeated pleas from the user base, the working group has been unable to reach a consensus on it. Because of this, MediaWiki, for example, has had to introduce its own  tag for citing references in notes, an idea which has since also been implemented for generic use by the Nelson HTML preprocessor.
 
-
-
