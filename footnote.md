@@ -8,10 +8,10 @@ A note is a string of text placed at the bottom of a page in a book or document 
 
 Footnotes are notes at the foot of the page while endnotes are collected under a separate heading at the end of a chapter, volume, or entire work. Unlike footnotes, endnotes have the advantage of not affecting the layout of the main text, but may cause inconvenience to readers who have to move back and forth between the main text and the endnotes.
 
-In English, a footnote or endnote \(1\) is normally flagged by a superscripted number immediately following that portion of the text the note references, each such footnote being numbered sequentially. Occasionally a number between brackets or parentheses is used instead, thus: , which can also be superscripted.
+In English, a footnote or endnote _\(1\)_ is normally flagged by a superscripted number immediately following that portion of the text the note references, each such footnote being numbered sequentially. Occasionally a number between brackets or parentheses is used instead, thus: , which can also be superscripted.
 
 {% hint style="info" %}
-\(1\) Source: [https://en.wikipedia.org/wiki/Note\_\(typography\)](https://en.wikipedia.org/wiki/Note_%28typography%29)
+_\(1\)_ Source: [https://en.wikipedia.org/wiki/Note\_\(typography\)](https://en.wikipedia.org/wiki/Note_%28typography%29)
 {% endhint %}
 
 Typographical devices such as the asterisk \(_\) or dagger \(†\) may also be used to point to notes; the traditional order of these symbols in English is_ , †, ‡, §, ‖, ¶. In documents like timetables, many different symbols, letters and numbers may refer the reader to particular notes.
