@@ -28,4 +28,5 @@
 * [Code blocks](code-blocks.md)
 * [Fixed font](fixed-font.md)
 * [Footnote](footnote.md)
+* [GIF](gif.md)
 
