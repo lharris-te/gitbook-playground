@@ -29,4 +29,5 @@
 * [Fixed font](fixed-font.md)
 * [Footnote](footnote.md)
 * [GIF](gif.md)
+* [FAQ](faq.md)
 
