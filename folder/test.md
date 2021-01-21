@@ -38,10 +38,27 @@ Something something
 
 Another one.
 
-|  |  |
-| :--- | :--- |
-| https://petros.blog | https://something.gr |
-|  |  |
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left"></th>
+      <th style="text-align:left"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">https://petros.blog</td>
+      <td style="text-align:left">https://something.gr</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
+        <p>One line</p>
+        <p>New line</p>
+      </td>
+      <td style="text-align:left"></td>
+    </tr>
+  </tbody>
+</table>
 
 
 
