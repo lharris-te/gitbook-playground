@@ -15,7 +15,7 @@
 
 ## Lots of Examples <a id="examples"></a>
 
-* [Page to be moved](examples/page-to-be-moved.md)
+* [Page to be moved](examples/page-to-be-moved-after-a-rename.md)
 * [Google Sheet](examples/google-sheet.md)
 
 ---
