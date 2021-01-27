@@ -15,6 +15,7 @@
 
 ## Lots of Examples <a id="examples"></a>
 
+* [Page to be moved](examples/page-to-be-moved.md)
 * [Google Sheet](examples/google-sheet.md)
 
 ---
@@ -30,5 +31,4 @@
 * [Footnote](footnote.md)
 * [GIF](gif.md)
 * [FAQ](faq.md)
-* [Page to be moved](page-to-be-moved.md)
 
