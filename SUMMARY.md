@@ -30,4 +30,5 @@
 * [Footnote](footnote.md)
 * [GIF](gif.md)
 * [FAQ](faq.md)
+* [Page to be moved](page-to-be-moved.md)
 
