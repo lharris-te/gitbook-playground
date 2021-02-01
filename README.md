@@ -1,5 +1,7 @@
 # Initial page
 
+This is to be reverted!
+
 1. Step one ![](.gitbook/assets/screenshot-2020-12-07-at-16.20.55.png) 
 2. Step two ![](.gitbook/assets/screenshot-2020-12-07-at-16.20.55.png) 
 3. 
