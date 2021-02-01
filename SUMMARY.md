@@ -32,4 +32,5 @@
 * [GIF](gif.md)
 * [FAQ](faq.md)
 * [Reference a PPT file](reference-a-ppt-file.md)
+* [Test blog.sia.tech with iframely embeds](test-blog.sia.tech-with-iframely-embeds.md)
 
