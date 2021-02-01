@@ -31,4 +31,5 @@
 * [Footnote](footnote.md)
 * [GIF](gif.md)
 * [FAQ](faq.md)
+* [Reference a PPT file](reference-a-ppt-file.md)
 
