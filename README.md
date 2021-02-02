@@ -3,7 +3,7 @@
 |  |  |
 | :--- | :--- |
 | 🎉 [Sofianna](https://playground-org.gitbook.io/sofianna/) | 🚗 [Some other space](https://playground-org.gitbook.io/sofianna/) |
-|  |  |
+| 📞 [Another one that looks great](https://playground-org.gitbook.io/playground/) | 🔥 [This space is on fire](https://playground-org.gitbook.io/playground/) |
 
 {% embed url="https://playground-org.gitbook.io/sofianna/" %}
 
