@@ -1,5 +1,13 @@
 # Initial page
 
+|  | Sofi |
+| :--- | :--- |
+| [Sofianna](https://playground-org.gitbook.io/sofianna/) | [Some other space](https://playground-org.gitbook.io/sofianna/) |
+
+{% embed url="https://playground-org.gitbook.io/sofianna/" %}
+
+
+
 1. Step one ![](.gitbook/assets/screenshot-2020-12-07-at-16.20.55.png) 
 2. Step two ![](.gitbook/assets/screenshot-2020-12-07-at-16.20.55.png) 
 3. 
