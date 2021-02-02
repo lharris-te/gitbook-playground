@@ -1,8 +1,9 @@
 # Initial page
 
-|  | Sofi |
+|  |  |
 | :--- | :--- |
-| [Sofianna](https://playground-org.gitbook.io/sofianna/) | [Some other space](https://playground-org.gitbook.io/sofianna/) |
+| 🎉 [Sofianna](https://playground-org.gitbook.io/sofianna/) | 🚗 [Some other space](https://playground-org.gitbook.io/sofianna/) |
+|  |  |
 
 {% embed url="https://playground-org.gitbook.io/sofianna/" %}
 
