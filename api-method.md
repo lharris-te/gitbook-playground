@@ -16,12 +16,12 @@ What?
 {% api-method-spec %}
 {% api-method-request %}
 {% api-method-path-parameters %}
-{% api-method-parameter name="pathParameter2" type="integer" required=false %}
-Path parameter 2 desc
-{% endapi-method-parameter %}
-
 {% api-method-parameter name="pathParameter1" type="string" required=false %}
 Path parameter 1 desc
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="pathParameter2" type="integer" required=false %}
+Path parameter 2 desc
 {% endapi-method-parameter %}
 {% endapi-method-path-parameters %}
 
