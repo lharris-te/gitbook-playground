@@ -42,7 +42,7 @@ Header parameter 1 desc
 
 {% endapi-method-response-example-description %}
 
-```
+```text
 
 ```
 {% endapi-method-response-example %}
