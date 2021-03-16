@@ -2,6 +2,8 @@
 
 ## List of GitBook Spaces
 
+This is a change
+
 |  |  |
 | :--- | :--- |
 | 🎉 [Sofianna](https://playground-org.gitbook.io/sofianna/) | 🚗 [Some other space](https://playground-org.gitbook.io/sofianna/) |
