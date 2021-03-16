@@ -1,20 +1,21 @@
 # Table of contents
 
-* [Initial page](README.md)
-* [New page](new-page.md)
-* [Yes](yes-renamed.md)
+* [Introduction](README.md)
+* [😃 New page](new-page.md)
+* [Yes page](yes-renamed.md)
 * [API Method](api-method.md)
 * [Inline images](inline-images.md)
 * [Target a heading in the same page](target-a-heading-in-the-same-page.md)
 * [Photos](photos.md)
 
-## A Folder <a id="folder"></a>
+## 🎉 A Folder <a id="folder"></a>
 
 * [Test](folder/test.md)
 * [Test internal links](folder/test-internal-links.md)
 
 ## Lots of Examples <a id="examples"></a>
 
+* [Page page](examples/page-page.md)
 * [Page to be moved](examples/page-to-be-moved-after-a-rename.md)
 * [Google Sheet](examples/google-sheet.md)
 
@@ -33,4 +34,7 @@
 * [FAQ](faq.md)
 * [Reference a PPT file](reference-a-ppt-file.md)
 * [Test blog.sia.tech with iframely embeds](test-blog.sia.tech-with-iframely-embeds.md)
+* [Image link in tables](image-link-in-tables.md)
+* [Audios — vectorai 0.1.0 documentation](untitled-2.md)
+* [index](imported-from-an-md-file.md)
 

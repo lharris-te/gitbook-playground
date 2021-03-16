@@ -1,4 +1,4 @@
-# New page
+# 😃 New page
 
 Please [petros@amiridis.net](mailto:petros@amiridis.net)
 

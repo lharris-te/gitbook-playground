@@ -1,4 +1,4 @@
-# Initial page
+# Introduction
 
 ## List of GitBook Spaces
 
