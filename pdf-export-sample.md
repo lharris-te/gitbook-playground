@@ -79,5 +79,51 @@ OK
 
 {% page-ref page="pdf-export-sample.md" %}
 
+{% api-method method="get" host="" path="" %}
+{% api-method-summary %}
+Method title
+{% endapi-method-summary %}
+
+{% api-method-description %}
+A brief description
+{% endapi-method-description %}
+
+{% api-method-spec %}
+{% api-method-request %}
+{% api-method-path-parameters %}
+{% api-method-parameter name="param1" type="string" required=false %}
+Something
+{% endapi-method-parameter %}
+{% endapi-method-path-parameters %}
+{% endapi-method-request %}
+
+{% api-method-response %}
+{% api-method-response-example httpCode=200 %}
+{% api-method-response-example-description %}
+
+{% endapi-method-response-example-description %}
+
+```
+
+```
+{% endapi-method-response-example %}
+{% endapi-method-response %}
+{% endapi-method-spec %}
+{% endapi-method %}
+
+{% tabs %}
+{% tab title="First Tab" %}
+asdfasdf
+{% endtab %}
+
+{% tab title="Second Tab" %}
+asdfasdf
+{% endtab %}
+{% endtabs %}
+
+$$
+a = b
+$$
+
 
 
