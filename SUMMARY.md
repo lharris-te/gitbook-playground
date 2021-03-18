@@ -37,4 +37,5 @@
 * [Image link in tables](image-link-in-tables.md)
 * [Audios — vectorai 0.1.0 documentation](untitled-2.md)
 * [index](imported-from-an-md-file.md)
+* [PDF Export sample](pdf-export-sample.md)
 
