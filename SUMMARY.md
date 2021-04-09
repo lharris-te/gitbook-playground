@@ -38,4 +38,5 @@
 * [Audios — vectorai 0.1.0 documentation](untitled-2.md)
 * [index](imported-from-an-md-file.md)
 * [PDF Export sample](pdf-export-sample.md)
+* [Facebook embeds](facebook-embeds.md)
 
