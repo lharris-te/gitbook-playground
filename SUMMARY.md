@@ -3,8 +3,8 @@
 * [Introduction](README.md)
 * [😃 New page](new-page.md)
 * [Yes page](yes-renamed.md)
-* [API Method](api-method.md)
-* [Inline images](inline-images.md)
+* [API Method](api-method/README.md)
+  * [Inline images](api-method/inline-images.md)
 * [Target a heading in the same page](target-a-heading-in-the-same-page.md)
 * [Photos](photos.md)
 
