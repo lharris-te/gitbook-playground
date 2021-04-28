@@ -1,6 +1,6 @@
 # Introduction
 
-
+[Link](yes-renamed.md)
 
 ## List of GitBook Spaces
 
