@@ -11,7 +11,12 @@ description: In an ordered list
 # Paragraphs between items from GitHub to GitBook
 
 1. Item 1
-  Paragraph
+
+  Paragraph.  
+  Sentence 2.
+
 2. Item 2
+
   Paragraph
+
 3. Item 3
