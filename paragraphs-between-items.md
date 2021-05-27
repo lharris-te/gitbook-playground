@@ -20,3 +20,17 @@ description: In an ordered list
   Paragraph
 
 3. Item 3
+
+# Paragraphs between items that do not form an ordered list
+
+(0). Item 1
+
+   This is something.  
+   Another sentence.
+
+(1). Item 2
+
+   This is something else.  
+   Another sentence.
+
+(2). Item 3
