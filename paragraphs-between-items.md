@@ -25,12 +25,12 @@ description: In an ordered list
 
 (0). Item 1
 
-    This is something.  
-    Another sentence.
+   This is something.  
+   Another sentence.
 
 (1). Item 2
 
-    This is something else.  
-    Another sentence.
+   This is something else.  
+   Another sentence.
 
 (2). Item 3
