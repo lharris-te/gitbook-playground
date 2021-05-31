@@ -10,4 +10,4 @@
 
 
 
-[This is a link to an asset file](.gitbook/assets/screenshot-2020-12-07-at-16.20.55.png)
+[This is a link to an asset file](https://github.com/petros/gitbook-playground/master/.gitbook/assets/screenshot-2020-12-07-at-16.20.55.pngscreenshot-2020-12-07-at-16.20.55.png)
