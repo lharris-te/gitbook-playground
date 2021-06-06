@@ -2,7 +2,7 @@
 
 [Link](yes-renamed.md)
 
-## List of GitBook Spaces
+## List of GitBook Spaces <a id="list-of-gitbook-spaces"></a>
 
 This is a change
 

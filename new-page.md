@@ -1,5 +1,7 @@
 # 😃 New page
 
+[Link to anchor](https://playground-org.gitbook.io/documentation/#list-of-gitbook-spaces)
+
 Please [petros@amiridis.net](mailto:petros@amiridis.net)
 
 \[![](.gitbook/assets/screenshot-2020-12-07-at-16.20.55.png)\]\(something\) Sporades kai alla kala.
