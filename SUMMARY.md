@@ -40,4 +40,5 @@
 * [PDF Export sample](pdf-export-sample.md)
 * [Facebook embeds](facebook-embeds.md)
 * [Paragraphs between items](paragraphs-between-items.md)
+* [Math](math.md)
 
