@@ -37,3 +37,11 @@ Another sentence.
 
 \(2\). Item 3
 
+
+## Block image between items
+
+1. Item 1
+
+   ![](screenshot-2020-12-07-at-16.20.55.png)
+
+2. Item 2
