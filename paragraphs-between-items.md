@@ -44,4 +44,9 @@ Another sentence.
 
    ![](.gitbook/assets/screenshot-2020-12-07-at-16.20.55.png)
 
-2. Item 2
+2. Code block
+
+   ```ruby
+   def a_method
+   end
+   ```
