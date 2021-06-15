@@ -50,3 +50,5 @@ Another sentence.
    def a_method
    end
    ```
+
+3. Another item
