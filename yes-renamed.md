@@ -30,7 +30,7 @@ Test Text A
 
 Test Text B
 
-{% page-ref page="on-the-shoulders-of-giants.md" %}
+{% page-ref page="folder/test.md" %}
 
 Test Text C
 {% endtab %}
@@ -40,7 +40,7 @@ Test Text A
 
 Test Text B
 
-{% page-ref page="on-the-shoulders-of-giants.md" %}
+{% page-ref page="folder/test.md" %}
 
 Test Text C
 {% endtab %}
