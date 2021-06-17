@@ -37,7 +37,6 @@ Another sentence.
 
 \(2\). Item 3
 
-
 ## Block image between items
 
 1. Item 1
@@ -52,3 +51,4 @@ Another sentence.
    ```
 
 3. Another item
+
